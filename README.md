@@ -12,10 +12,10 @@
 ### 3) If you have the infura account and you created API key on mainet, you can skip this step
 >!!! Note: This is the example ! Not Real Keys ! You should make yours
 
-####a) You should get the address for your communication with blockchain using infura node 
-Looks like This -> https://mainnet.infura.io/v3/5f47390f8ded435t9ebetg8226gthdbz
-####b) Copy API key
-API KEY should look like this  -> Note: This is the example hey 5f47390f8ded435t9ebetg8226gthdbz
+#### You should get the address for your communication with blockchain using infura node 
+>Looks like This = https://mainnet.infura.io/v3/5f47390f8ded435t9ebetg8226gthdbz
+#### Copy API key
+>API KEY should look like this  -> Note: This is the example hey 5f47390f8ded435t9ebetg8226gthdbz
 
 ### 4) Add the .env file in the same folder(root folder) by runing
 **touch .env**
