@@ -15,7 +15,7 @@
 #### You should get the address for your communication with blockchain using infura node 
 >  Looks like This = https://mainnet.infura.io/v3/5f47390f8ded435t9ebetg8226gthdbz
 #### Copy API key
->. API KEY should look like this  -> Note: This is the example hey 5f47390f8ded435t9ebetg8226gthdbz
+>  API KEY should look like this  -> Note: This is the example hey 5f47390f8ded435t9ebetg8226gthdbz
 
 ### 4) Add the .env file in the same folder(root folder) by runing
 **touch .env**
@@ -25,7 +25,7 @@
 >  Save it
 
 ### 6) In the root of the cloned project run
-**npm run dev** -
+**npm run dev**
 >  After successful booting, you should see your app is running on specific port on localhost
 >  Click on that link to open it in browser and you are good to go
 
