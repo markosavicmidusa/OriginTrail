@@ -30,6 +30,6 @@
 >  Click on that link to open it in browser and you are good to go
 
 ## IMPORTANT !!! 
- **If you have any questions plese email me: savic.marko90@gmail.com or contact me 063/14444-34**
+ **If you have any questions plese email me
 
 
