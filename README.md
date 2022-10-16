@@ -2,8 +2,8 @@
 
 ### 1) Clone
  
-#### >  HTTPS: git clone https://github.com/markosavicmidusa/OriginTrail.git 
-#### >  SSH: git@github.com:markosavicmidusa/OriginTrail.git
+ >  HTTPS: git clone https://github.com/markosavicmidusa/OriginTrail.git 
+ >  SSH: git@github.com:markosavicmidusa/OriginTrail.git
 
 ### 2) Navigate to the folder on your local and in the root folder run
 **npm install**
