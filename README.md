@@ -2,9 +2,9 @@
 
 ### 1) Clone
  
->  HTTPS: git clone https://github.com/markosavicmidusa/OriginTrail.git 
->  or
->   SSH: git@github.com:markosavicmidusa/OriginTrail.git
+#### >  HTTPS: git clone https://github.com/markosavicmidusa/OriginTrail.git 
+#### >  or
+#### >  SSH: git@github.com:markosavicmidusa/OriginTrail.git
 
 ### 2) Navigate to the folder on your local and in the root folder run
 **npm install**
@@ -13,9 +13,9 @@
 >  !!! Note: This is the example ! Not Real Keys ! You should make yours
 
 #### You should get the address for your communication with blockchain using infura node 
->  Looks like This = https://mainnet.infura.io/v3/5f47390f8ded435t9ebetg8226gthdbz
+>  Looks like This = https://mainnet.infura.io/v3/5f47390f8dsa6754sdaascded435t9febetg822w6gthdbz
 #### Copy API key
->  API KEY should look like this  -> Note: This is the example hey 5f47390f8ded435t9ebetg8226gthdbz
+>  API KEY should look like this  -> Note: This is the example hey 5f47390f8dsa6754sdaascded435t9febetg822w6gthdbz
 
 ### 4) Add the .env file in the same folder(root folder) by runing
 **touch .env**
